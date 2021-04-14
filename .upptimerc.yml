@@ -20,8 +20,8 @@ status-website:
   baseUrl: /cheminfo-status
   logoUrl: https://raw.githubusercontent.com/cheminfo/cheminfo.github.io/main/docs/assets/images/logo.svg
   name: cheminfo status
-  introTitle: "status of the cheminfo deployments"
-  introMessage: 
+  introTitle: "**cheminfo** is an open-source effort that creates building blocks for the capture, processing, and analysis of (chemical) data."
+  introMessage: This status page reports the uptime for the services we provide and tracks any on-going incidents.
   navbar:
     - title: Status
       href: /
