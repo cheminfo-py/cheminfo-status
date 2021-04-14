@@ -16,6 +16,8 @@ sites:
     url: https://www.chemcalc.org/
   - name: ecoscale
     url: http://ecoscale.cheminfo.org/
+  - name: polycalc
+    url: https://www.polycalc.org/
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
