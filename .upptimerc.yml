@@ -5,7 +5,7 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: c6h6
-    url: https://c6h6.org
+    url: https://www.c6h6.org/
   - name: eln.epfl.ch
     url: https://eln.epfl.ch
   - name: xrd.cheminfo.org
