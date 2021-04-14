@@ -12,6 +12,10 @@ sites:
     url: https://xrd.cheminfo.org
   - name: crystal.cheminfo.org
     url: https://crystal.cheminfo.org/
+  - name: chemcalc
+    url: https://www.chemcalc.org/
+  - name: ecoscale
+    url: http://ecoscale.cheminfo.org/
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
