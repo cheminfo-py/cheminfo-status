@@ -15,9 +15,9 @@ sites:
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /cheminfo-status
   logoUrl: https://raw.githubusercontent.com/cheminfo/cheminfo.github.io/main/docs/assets/images/logo.svg
   name: cheminfo status
   introTitle: "status of the cheminfo deployments"
