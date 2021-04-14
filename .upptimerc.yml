@@ -4,22 +4,15 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
-
+  - name: c6h6
+    url: https://c6h6.org
+  - name: eln.epfl.ch
+    url: https://eln.epfl.ch
+  - name: xrd.cheminfo.org
+    url: https://xrd.cheminfo.org
+  - name: crystal.cheminfo.org
+    url: https://crystal.cheminfo.org/
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: demo.upptime.js.org
