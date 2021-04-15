@@ -18,6 +18,10 @@ sites:
     url: http://ecoscale.cheminfo.org/
   - name: polycalc
     url: https://www.polycalc.org/
+  - name: Search the pubchem database by the monoisotopic mass
+    url: https://pubchem.cheminfo.org/
+  - name: API for the PDB
+    url: https://pdb.cheminfo.org/
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
