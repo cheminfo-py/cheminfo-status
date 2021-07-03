@@ -13,7 +13,7 @@
     "time": 1112,
     "timeDay": 946,
     "timeWeek": 1076,
-    "timeMonth": 1035,
+    "timeMonth": 1039,
     "timeYear": 1112,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 927,
     "timeDay": 769,
     "timeWeek": 962,
-    "timeMonth": 958,
+    "timeMonth": 964,
     "timeYear": 927,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 813,
     "timeDay": 860,
     "timeWeek": 805,
-    "timeMonth": 804,
+    "timeMonth": 808,
     "timeYear": 813,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 782,
     "timeDay": 736,
     "timeWeek": 761,
-    "timeMonth": 788,
+    "timeMonth": 791,
     "timeYear": 782,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -103,7 +103,7 @@
     "time": 698,
     "timeDay": 671,
     "timeWeek": 718,
-    "timeMonth": 706,
+    "timeMonth": 708,
     "timeYear": 698,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 854,
     "timeDay": 1022,
     "timeWeek": 872,
-    "timeMonth": 801,
+    "timeMonth": 808,
     "timeYear": 854,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 702,
     "timeDay": 769,
     "timeWeek": 718,
-    "timeMonth": 723,
+    "timeMonth": 724,
     "timeYear": 702,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 715,
     "timeDay": 509,
     "timeWeek": 645,
-    "timeMonth": 716,
+    "timeMonth": 718,
     "timeYear": 715,
     "dailyMinutesDown": {}
   }
