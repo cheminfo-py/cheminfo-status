@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1098,
     "timeDay": 879,
-    "timeWeek": 980,
+    "timeWeek": 985,
     "timeMonth": 1083,
     "timeYear": 1098,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1631,
     "timeDay": 1269,
-    "timeWeek": 1609,
+    "timeWeek": 1622,
     "timeMonth": 1647,
     "timeYear": 1631,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 927,
     "timeDay": 757,
-    "timeWeek": 899,
+    "timeWeek": 897,
     "timeMonth": 958,
     "timeYear": 927,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 799,
     "timeDay": 717,
-    "timeWeek": 737,
+    "timeWeek": 754,
     "timeMonth": 790,
     "timeYear": 799,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 786,
     "timeDay": 674,
-    "timeWeek": 726,
+    "timeWeek": 747,
     "timeMonth": 800,
     "timeYear": 786,
     "dailyMinutesDown": {}
@@ -94,17 +94,17 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 712,
-    "timeWeek": 712,
+    "time": 702,
+    "timeDay": 703,
+    "timeWeek": 711,
     "timeMonth": 706,
-    "timeYear": 703,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   },
   {
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 850,
     "timeDay": 605,
-    "timeWeek": 986,
+    "timeWeek": 936,
     "timeMonth": 895,
     "timeYear": 850,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 709,
     "timeDay": 506,
-    "timeWeek": 709,
+    "timeWeek": 724,
     "timeMonth": 728,
     "timeYear": 709,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 710,
     "timeDay": 848,
-    "timeWeek": 685,
+    "timeWeek": 700,
     "timeMonth": 714,
     "timeYear": 710,
     "dailyMinutesDown": {}
