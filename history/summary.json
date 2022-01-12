@@ -112,7 +112,7 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 717,
     "timeDay": 661,
-    "timeWeek": 675,
+    "timeWeek": 670,
     "timeMonth": 679,
     "timeYear": 717,
     "dailyMinutesDown": {}
