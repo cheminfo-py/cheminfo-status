@@ -8,10 +8,14 @@ sites:
     url: https://www.c6h6.org/
   - name: eln.epfl.ch
     url: https://eln.epfl.ch
+  - name: eln-beta.epfl.ch
+    url: https://eln-beta.epfl.ch
   - name: xrd.cheminfo.org
     url: https://xrd.cheminfo.org
   - name: ir.cheminfo.org
     url: https://ir.cheminfo.org
+  - name: ir.cheminfo.org web service 
+    url: https://ir.cheminfo.org/api/v1/docs
   - name: crystal.cheminfo.org
     url: https://crystal.cheminfo.org/
   - name: chemcalc
