@@ -15,7 +15,7 @@ sites:
   - name: ir.cheminfo.org
     url: https://ir.cheminfo.org
   - name: ir.cheminfo.org web service 
-    url: https://ir.cheminfo.org/api/v1/docs
+    url: https://ir.cheminfo.org/api/v1/ir?smiles=CC
   - name: crystal.cheminfo.org
     url: https://crystal.cheminfo.org/
   - name: chemcalc
