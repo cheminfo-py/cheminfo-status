@@ -13,7 +13,7 @@
     "time": 1200,
     "timeDay": 1289,
     "timeWeek": 1305,
-    "timeMonth": 1306,
+    "timeMonth": 1284,
     "timeYear": 1200,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1623,
     "timeDay": 1554,
     "timeWeek": 1515,
-    "timeMonth": 1529,
+    "timeMonth": 1512,
     "timeYear": 1623,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 967,
     "timeDay": 967,
     "timeWeek": 1010,
-    "timeMonth": 952,
+    "timeMonth": 941,
     "timeYear": 967,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 807,
     "timeDay": 817,
     "timeWeek": 777,
-    "timeMonth": 818,
+    "timeMonth": 806,
     "timeYear": 807,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 833,
     "timeDay": 728,
     "timeWeek": 793,
-    "timeMonth": 1010,
+    "timeMonth": 1011,
     "timeYear": 833,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 870,
     "timeDay": 1031,
     "timeWeek": 906,
-    "timeMonth": 877,
+    "timeMonth": 873,
     "timeYear": 870,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -157,7 +157,7 @@
     "time": 714,
     "timeDay": 700,
     "timeWeek": 732,
-    "timeMonth": 709,
+    "timeMonth": 708,
     "timeYear": 714,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 893,
     "timeDay": 848,
     "timeWeek": 969,
-    "timeMonth": 959,
+    "timeMonth": 962,
     "timeYear": 893,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 736,
     "timeDay": 613,
     "timeWeek": 706,
-    "timeMonth": 796,
+    "timeMonth": 776,
     "timeYear": 736,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 737,
     "timeDay": 609,
     "timeWeek": 742,
-    "timeMonth": 716,
+    "timeMonth": 702,
     "timeYear": 737,
     "dailyMinutesDown": {}
   }
