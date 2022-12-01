@@ -1,7 +1,7 @@
 url: https://ir.cheminfo.org/api/v1/ir?smiles=CC
 status: up
 code: 200
-responseTime: 1345
-lastUpdated: 2022-11-30T23:01:38.767Z
+responseTime: 988
+lastUpdated: 2022-12-01T23:01:29.409Z
 startTime: Fri Jan 28 2022 12:43:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
