@@ -140,7 +140,7 @@
     "timeDay": 1031,
     "timeWeek": 881,
     "timeMonth": 1199,
-    "timeYear": 995,
+    "timeYear": 996,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 704,
     "timeWeek": 851,
     "timeMonth": 1037,
-    "timeYear": 979,
+    "timeYear": 980,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 815,
     "timeWeek": 764,
     "timeMonth": 878,
-    "timeYear": 821,
+    "timeYear": 822,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +212,7 @@
     "timeDay": 916,
     "timeWeek": 868,
     "timeMonth": 956,
-    "timeYear": 817,
+    "timeYear": 818,
     "dailyMinutesDown": {}
   },
   {
@@ -220,15 +220,15 @@
     "url": "https://mastersearch.chemexper.com/search/reference/json2/quick/",
     "icon": "https://favicons.githubusercontent.com/mastersearch.chemexper.com",
     "slug": "chemical-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2397,
-    "timeDay": 2474,
-    "timeWeek": 2361,
+    "timeDay": 2467,
+    "timeWeek": 2360,
     "timeMonth": 2342,
     "timeYear": 2397,
     "dailyMinutesDown": {}
