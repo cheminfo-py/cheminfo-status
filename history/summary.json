@@ -220,17 +220,17 @@
     "url": "https://mastersearch.chemexper.com/search/reference/json2/quick/",
     "icon": "https://favicons.githubusercontent.com/mastersearch.chemexper.com",
     "slug": "chemical-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2447,
-    "timeDay": 2550,
-    "timeWeek": 2845,
-    "timeMonth": 2470,
-    "timeYear": 2447,
+    "time": 2446,
+    "timeDay": 2525,
+    "timeWeek": 2841,
+    "timeMonth": 2469,
+    "timeYear": 2446,
     "dailyMinutesDown": {}
   }
 ]
