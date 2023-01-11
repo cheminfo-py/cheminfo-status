@@ -148,7 +148,7 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 931,
     "timeDay": 1609,
-    "timeWeek": 1480,
+    "timeWeek": 1482,
     "timeMonth": 1449,
     "timeYear": 949,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "url": "https://mastersearch.chemexper.com/search/reference/json2/quick/",
     "icon": "https://favicons.githubusercontent.com/mastersearch.chemexper.com",
     "slug": "chemical-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -228,8 +228,8 @@
     "uptimeYear": "100.00%",
     "time": 2480,
     "timeDay": 2991,
-    "timeWeek": 2800,
-    "timeMonth": 2560,
+    "timeWeek": 2803,
+    "timeMonth": 2561,
     "timeYear": 2480,
     "dailyMinutesDown": {}
   }
