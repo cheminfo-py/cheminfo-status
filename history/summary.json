@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1437,
     "timeDay": 1308,
-    "timeWeek": 3034,
+    "timeWeek": 2715,
     "timeMonth": 2499,
     "timeYear": 1512,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1605,
     "timeDay": 1608,
-    "timeWeek": 1766,
+    "timeWeek": 1731,
     "timeMonth": 1683,
     "timeYear": 1626,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1247,
     "timeDay": 1035,
-    "timeWeek": 1394,
+    "timeWeek": 1356,
     "timeMonth": 1307,
     "timeYear": 1248,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1185,
     "timeDay": 910,
-    "timeWeek": 4762,
+    "timeWeek": 4078,
     "timeMonth": 2589,
     "timeYear": 1250,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1020,
     "timeDay": 917,
-    "timeWeek": 4446,
+    "timeWeek": 4380,
     "timeMonth": 2548,
     "timeYear": 1085,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1085,
     "timeDay": 1015,
-    "timeWeek": 1151,
+    "timeWeek": 1126,
     "timeMonth": 1131,
     "timeYear": 1098,
     "dailyMinutesDown": {}
@@ -148,15 +148,15 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1234,
-    "timeDay": 1406,
-    "timeWeek": 1724,
+    "timeDay": 1381,
+    "timeWeek": 1720,
     "timeMonth": 1597,
     "timeYear": 1254,
     "dailyMinutesDown": {}
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1004,
     "timeDay": 922,
-    "timeWeek": 2296,
+    "timeWeek": 1887,
     "timeMonth": 1506,
     "timeYear": 1037,
     "dailyMinutesDown": {}
@@ -229,7 +229,7 @@
     "time": 2633,
     "timeDay": 2943,
     "timeWeek": 3123,
-    "timeMonth": 3014,
+    "timeMonth": 3015,
     "timeYear": 2633,
     "dailyMinutesDown": {}
   }
