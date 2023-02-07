@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1457,
     "timeDay": 1310,
-    "timeWeek": 2834,
+    "timeWeek": 3051,
     "timeMonth": 2598,
     "timeYear": 1548,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1607,
     "timeDay": 1773,
-    "timeWeek": 1638,
+    "timeWeek": 1642,
     "timeMonth": 1660,
     "timeYear": 1628,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1247,
     "timeDay": 1038,
-    "timeWeek": 1230,
+    "timeWeek": 1254,
     "timeMonth": 1290,
     "timeYear": 1249,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1205,
     "timeDay": 917,
-    "timeWeek": 2204,
+    "timeWeek": 2388,
     "timeMonth": 2731,
     "timeYear": 1278,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1035,
     "timeDay": 833,
-    "timeWeek": 1911,
+    "timeWeek": 2053,
     "timeMonth": 2531,
     "timeYear": 1109,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1086,
     "timeDay": 1002,
-    "timeWeek": 1088,
+    "timeWeek": 1098,
     "timeMonth": 1117,
     "timeYear": 1116,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 994,
     "timeDay": 754,
-    "timeWeek": 1972,
+    "timeWeek": 2145,
     "timeMonth": 2109,
     "timeYear": 1067,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1023,
     "timeDay": 880,
-    "timeWeek": 1649,
+    "timeWeek": 1769,
     "timeMonth": 1670,
     "timeYear": 1068,
     "dailyMinutesDown": {}
@@ -148,7 +148,7 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -156,8 +156,8 @@
     "uptimeYear": "100.00%",
     "time": 1260,
     "timeDay": 1935,
-    "timeWeek": 1277,
-    "timeMonth": 1583,
+    "timeWeek": 1279,
+    "timeMonth": 1576,
     "timeYear": 1277,
     "dailyMinutesDown": {}
   },
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1008,
     "timeDay": 955,
-    "timeWeek": 1364,
+    "timeWeek": 1427,
     "timeMonth": 1595,
     "timeYear": 1045,
     "dailyMinutesDown": {}
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 878,
     "timeDay": 892,
-    "timeWeek": 1425,
+    "timeWeek": 1539,
     "timeMonth": 1826,
     "timeYear": 929,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 883,
     "timeDay": 952,
-    "timeWeek": 1872,
+    "timeWeek": 2027,
     "timeMonth": 1915,
     "timeYear": 928,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "url": "https://mastersearch.chemexper.com/search/reference/json2/quick/",
     "icon": "https://favicons.githubusercontent.com/mastersearch.chemexper.com",
     "slug": "chemical-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -229,7 +229,7 @@
     "time": 2654,
     "timeDay": 3125,
     "timeWeek": 2906,
-    "timeMonth": 3025,
+    "timeMonth": 3016,
     "timeYear": 2654,
     "dailyMinutesDown": {}
   }
