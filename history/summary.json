@@ -156,8 +156,8 @@
     "uptimeYear": "100.00%",
     "time": 1251,
     "timeDay": 1435,
-    "timeWeek": 1278,
-    "timeMonth": 1571,
+    "timeWeek": 1279,
+    "timeMonth": 1572,
     "timeYear": 1268,
     "dailyMinutesDown": {}
   },
@@ -220,17 +220,17 @@
     "url": "https://mastersearch.chemexper.com/search/reference/json2/quick/",
     "icon": "https://favicons.githubusercontent.com/mastersearch.chemexper.com",
     "slug": "chemical-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2651,
-    "timeDay": 2896,
+    "time": 2650,
+    "timeDay": 2868,
     "timeWeek": 2899,
     "timeMonth": 3016,
-    "timeYear": 2651,
+    "timeYear": 2650,
     "dailyMinutesDown": {}
   }
 ]
