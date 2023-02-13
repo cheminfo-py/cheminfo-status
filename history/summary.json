@@ -148,17 +148,17 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1286,
-    "timeDay": 1158,
+    "timeDay": 1160,
     "timeWeek": 1441,
-    "timeMonth": 1550,
-    "timeYear": 1310,
+    "timeMonth": 1551,
+    "timeYear": 1309,
     "dailyMinutesDown": {}
   },
   {
@@ -229,7 +229,7 @@
     "time": 2668,
     "timeDay": 3006,
     "timeWeek": 2889,
-    "timeMonth": 3011,
+    "timeMonth": 3012,
     "timeYear": 2668,
     "dailyMinutesDown": {}
   }
