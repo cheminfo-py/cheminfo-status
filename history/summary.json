@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1485,
-    "timeDay": 1141,
+    "timeDay": 936,
     "timeWeek": 1434,
     "timeMonth": 2198,
-    "timeYear": 1584,
+    "timeYear": 1585,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1603,
-    "timeDay": 1443,
+    "timeDay": 1391,
     "timeWeek": 1433,
     "timeMonth": 1578,
-    "timeYear": 1632,
+    "timeYear": 1633,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1245,
-    "timeDay": 1002,
+    "timeDay": 1085,
     "timeWeek": 1110,
     "timeMonth": 1213,
     "timeYear": 1252,
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1261,
-    "timeDay": 826,
+    "timeDay": 937,
     "timeWeek": 1012,
     "timeMonth": 2455,
-    "timeYear": 1359,
+    "timeYear": 1361,
     "dailyMinutesDown": {}
   },
   {
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1058,
-    "timeDay": 811,
+    "timeDay": 735,
     "timeWeek": 927,
     "timeMonth": 1823,
-    "timeYear": 1149,
+    "timeYear": 1150,
     "dailyMinutesDown": {}
   },
   {
@@ -101,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1086,
-    "timeDay": 997,
+    "timeDay": 1010,
     "timeWeek": 1029,
     "timeMonth": 1091,
-    "timeYear": 1137,
+    "timeYear": 1138,
     "dailyMinutesDown": {}
   },
   {
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1043,
-    "timeDay": 953,
+    "timeDay": 619,
     "timeWeek": 1077,
     "timeMonth": 2063,
-    "timeYear": 1120,
+    "timeYear": 1121,
     "dailyMinutesDown": {}
   },
   {
@@ -137,10 +137,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1043,
-    "timeDay": 743,
+    "timeDay": 758,
     "timeWeek": 980,
     "timeMonth": 1455,
-    "timeYear": 1102,
+    "timeYear": 1097,
     "dailyMinutesDown": {}
   },
   {
@@ -148,7 +148,7 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -157,7 +157,7 @@
     "time": 1344,
     "timeDay": 1494,
     "timeWeek": 1629,
-    "timeMonth": 1386,
+    "timeMonth": 1387,
     "timeYear": 1365,
     "dailyMinutesDown": {}
   },
@@ -173,7 +173,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1017,
-    "timeDay": 954,
+    "timeDay": 1287,
     "timeWeek": 1054,
     "timeMonth": 1263,
     "timeYear": 1061,
@@ -191,10 +191,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
-    "timeDay": 1571,
+    "timeDay": 1735,
     "timeWeek": 1818,
     "timeMonth": 1720,
-    "timeYear": 986,
+    "timeYear": 987,
     "dailyMinutesDown": {}
   },
   {
@@ -209,10 +209,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 862,
+    "timeDay": 829,
     "timeWeek": 1249,
     "timeMonth": 1737,
-    "timeYear": 978,
+    "timeYear": 979,
     "dailyMinutesDown": {}
   },
   {
@@ -220,7 +220,7 @@
     "url": "https://mastersearch.chemexper.com/search/reference/json2/quick/",
     "icon": "https://favicons.githubusercontent.com/mastersearch.chemexper.com",
     "slug": "chemical-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
