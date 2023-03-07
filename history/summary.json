@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 1502,
     "timeDay": 0,
-    "timeWeek": 2799,
-    "timeMonth": 2097,
-    "timeYear": 1607,
+    "timeWeek": 3162,
+    "timeMonth": 2142,
+    "timeYear": 1609,
     "dailyMinutesDown": {}
   },
   {
@@ -30,9 +30,9 @@
     "uptimeYear": "100.00%",
     "time": 1601,
     "timeDay": 0,
-    "timeWeek": 1525,
-    "timeMonth": 1560,
-    "timeYear": 1634,
+    "timeWeek": 1532,
+    "timeMonth": 1567,
+    "timeYear": 1635,
     "dailyMinutesDown": {}
   },
   {
@@ -48,9 +48,9 @@
     "uptimeYear": "100.00%",
     "time": 1245,
     "timeDay": 0,
-    "timeWeek": 1169,
-    "timeMonth": 1205,
-    "timeYear": 1253,
+    "timeWeek": 1231,
+    "timeMonth": 1211,
+    "timeYear": 1254,
     "dailyMinutesDown": {}
   },
   {
@@ -66,9 +66,9 @@
     "uptimeYear": "100.00%",
     "time": 1278,
     "timeDay": 0,
-    "timeWeek": 2419,
-    "timeMonth": 2401,
-    "timeYear": 1382,
+    "timeWeek": 2846,
+    "timeMonth": 2461,
+    "timeYear": 1384,
     "dailyMinutesDown": {}
   },
   {
@@ -84,9 +84,9 @@
     "uptimeYear": "100.00%",
     "time": 1077,
     "timeDay": 0,
-    "timeWeek": 2631,
-    "timeMonth": 1709,
-    "timeYear": 1176,
+    "timeWeek": 3067,
+    "timeMonth": 1741,
+    "timeYear": 1178,
     "dailyMinutesDown": {}
   },
   {
@@ -102,8 +102,8 @@
     "uptimeYear": "100.00%",
     "time": 1086,
     "timeDay": 0,
-    "timeWeek": 1055,
-    "timeMonth": 1086,
+    "timeWeek": 1074,
+    "timeMonth": 1088,
     "timeYear": 1138,
     "dailyMinutesDown": {}
   },
@@ -120,9 +120,9 @@
     "uptimeYear": "100.00%",
     "time": 1059,
     "timeDay": 0,
-    "timeWeek": 2523,
-    "timeMonth": 2118,
-    "timeYear": 1142,
+    "timeWeek": 2832,
+    "timeMonth": 2173,
+    "timeYear": 1143,
     "dailyMinutesDown": {}
   },
   {
@@ -138,9 +138,9 @@
     "uptimeYear": "100.00%",
     "time": 1059,
     "timeDay": 0,
-    "timeWeek": 2477,
-    "timeMonth": 1642,
-    "timeYear": 1111,
+    "timeWeek": 2915,
+    "timeMonth": 1679,
+    "timeYear": 1112,
     "dailyMinutesDown": {}
   },
   {
@@ -148,17 +148,17 @@
     "url": "http://ecoscale.cheminfo.org/",
     "icon": "https://favicons.githubusercontent.com/ecoscale.cheminfo.org",
     "slug": "ecoscale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1390,
-    "timeDay": 1224,
-    "timeWeek": 1672,
-    "timeMonth": 1445,
-    "timeYear": 1402,
+    "timeDay": 1404,
+    "timeWeek": 1681,
+    "timeMonth": 1459,
+    "timeYear": 1403,
     "dailyMinutesDown": {}
   },
   {
@@ -174,9 +174,9 @@
     "uptimeYear": "100.00%",
     "time": 1018,
     "timeDay": 0,
-    "timeWeek": 1025,
-    "timeMonth": 1102,
-    "timeYear": 1063,
+    "timeWeek": 1127,
+    "timeMonth": 1113,
+    "timeYear": 1065,
     "dailyMinutesDown": {}
   },
   {
@@ -192,9 +192,9 @@
     "uptimeYear": "100.00%",
     "time": 928,
     "timeDay": 0,
-    "timeWeek": 2214,
-    "timeMonth": 1739,
-    "timeYear": 1004,
+    "timeWeek": 2415,
+    "timeMonth": 1779,
+    "timeYear": 1005,
     "dailyMinutesDown": {}
   },
   {
@@ -210,9 +210,9 @@
     "uptimeYear": "100.00%",
     "time": 925,
     "timeDay": 0,
-    "timeWeek": 1675,
-    "timeMonth": 1575,
-    "timeYear": 990,
+    "timeWeek": 1870,
+    "timeMonth": 1602,
+    "timeYear": 991,
     "dailyMinutesDown": {}
   },
   {
@@ -220,16 +220,16 @@
     "url": "https://mastersearch.chemexper.com/search/reference/json2/quick/",
     "icon": "https://favicons.githubusercontent.com/mastersearch.chemexper.com",
     "slug": "chemical-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2685,
-    "timeDay": 2563,
-    "timeWeek": 2955,
-    "timeMonth": 2801,
+    "timeDay": 2092,
+    "timeWeek": 2937,
+    "timeMonth": 2805,
     "timeYear": 2685,
     "dailyMinutesDown": {}
   }
