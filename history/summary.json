@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1548,
-    "timeDay": 1272,
-    "timeWeek": 1259,
+    "timeDay": 0,
+    "timeWeek": 1358,
     "timeMonth": 2190,
-    "timeYear": 1689,
+    "timeYear": 1691,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1612,
-    "timeDay": 1691,
-    "timeWeek": 1779,
-    "timeMonth": 1742,
+    "timeDay": 0,
+    "timeWeek": 1844,
+    "timeMonth": 1747,
     "timeYear": 1653,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1251,
-    "timeDay": 1336,
-    "timeWeek": 1364,
-    "timeMonth": 1330,
-    "timeYear": 1268,
+    "timeDay": 0,
+    "timeWeek": 1413,
+    "timeMonth": 1332,
+    "timeYear": 1269,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1330,
-    "timeDay": 1297,
-    "timeWeek": 1297,
-    "timeMonth": 2030,
-    "timeYear": 1457,
+    "timeDay": 0,
+    "timeWeek": 1356,
+    "timeMonth": 2070,
+    "timeYear": 1458,
     "dailyMinutesDown": {}
   },
   {
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1120,
-    "timeDay": 962,
-    "timeWeek": 941,
-    "timeMonth": 1663,
-    "timeYear": 1239,
+    "timeDay": 0,
+    "timeWeek": 949,
+    "timeMonth": 1674,
+    "timeYear": 1241,
     "dailyMinutesDown": {}
   },
   {
@@ -101,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1089,
-    "timeDay": 1153,
-    "timeWeek": 1163,
-    "timeMonth": 1130,
-    "timeYear": 1144,
+    "timeDay": 0,
+    "timeWeek": 1191,
+    "timeMonth": 1129,
+    "timeYear": 1145,
     "dailyMinutesDown": {}
   },
   {
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
-    "timeDay": 1468,
-    "timeWeek": 1186,
-    "timeMonth": 1746,
-    "timeYear": 1210,
+    "timeDay": 0,
+    "timeWeek": 1141,
+    "timeMonth": 1778,
+    "timeYear": 1212,
     "dailyMinutesDown": {}
   },
   {
@@ -137,10 +137,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1109,
-    "timeDay": 2235,
-    "timeWeek": 1177,
-    "timeMonth": 1941,
-    "timeYear": 1191,
+    "timeDay": 0,
+    "timeWeek": 1286,
+    "timeMonth": 1957,
+    "timeYear": 1193,
     "dailyMinutesDown": {}
   },
   {
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1460,
-    "timeDay": 865,
-    "timeWeek": 988,
+    "time": 1461,
+    "timeDay": 891,
+    "timeWeek": 992,
     "timeMonth": 1542,
-    "timeYear": 1475,
+    "timeYear": 1476,
     "dailyMinutesDown": {}
   },
   {
@@ -173,10 +173,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1032,
-    "timeDay": 817,
-    "timeWeek": 964,
-    "timeMonth": 1238,
-    "timeYear": 1084,
+    "timeDay": 0,
+    "timeWeek": 965,
+    "timeMonth": 1228,
+    "timeYear": 1085,
     "dailyMinutesDown": {}
   },
   {
@@ -191,10 +191,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 952,
-    "timeDay": 954,
-    "timeWeek": 819,
-    "timeMonth": 1297,
-    "timeYear": 1043,
+    "timeDay": 0,
+    "timeWeek": 825,
+    "timeMonth": 1257,
+    "timeYear": 1045,
     "dailyMinutesDown": {}
   },
   {
@@ -209,10 +209,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 949,
-    "timeDay": 1034,
-    "timeWeek": 901,
-    "timeMonth": 1248,
-    "timeYear": 1031,
+    "timeDay": 0,
+    "timeWeek": 927,
+    "timeMonth": 1268,
+    "timeYear": 1032,
     "dailyMinutesDown": {}
   },
   {
@@ -227,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2706,
-    "timeDay": 1996,
-    "timeWeek": 2253,
-    "timeMonth": 2827,
+    "timeDay": 1984,
+    "timeWeek": 2252,
+    "timeMonth": 2825,
     "timeYear": 2706,
     "dailyMinutesDown": {}
   }
